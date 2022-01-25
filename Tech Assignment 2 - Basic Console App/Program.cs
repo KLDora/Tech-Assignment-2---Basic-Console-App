@@ -6,7 +6,7 @@ namespace Tech_Assignment_2___Basic_Console_App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello, my name is Karissa Dora and I am looking forward to this semester.");
         }
     }
 }
